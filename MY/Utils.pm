@@ -9,7 +9,6 @@ use File::Basename qw/dirname/;
 use File::Path qw/make_path/;
 use Data::Dumper;
 use Time::HiRes;
-use MaterialHtml;
 use Log::Fast;
 use JSON::XS;
 use POSIX ();
